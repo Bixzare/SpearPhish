@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+joblib
+nltk
+scikit-learn
+pandas
+numpy
+scipy
+requests
+beautifulsoup4
+python-whois
+xgboost
